@@ -1,4 +1,4 @@
-# ESP8266_NodeJS_React
+# AM2320_ESP8266_NodeJS_React
 
 ## How to use
 
