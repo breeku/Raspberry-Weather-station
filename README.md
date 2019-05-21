@@ -16,6 +16,7 @@ For a lack of a demo, here's a picture how the end result should look like.
 ![Image](https://i.imgur.com/qP6kC7U.png)
 
 *Todo*
+* [ ] Remove 'Dashboard' and 'Raspberry' from React app since it isn't in this project's scope
 * [ ] Move the instructions to Wiki
 * [ ] Demo
 * [ ] More specific instructions 
