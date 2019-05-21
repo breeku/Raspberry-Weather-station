@@ -1,0 +1,4 @@
+# Ignore our DB
+**/db.json
+# Ignore node_modules
+**/node_modules/
