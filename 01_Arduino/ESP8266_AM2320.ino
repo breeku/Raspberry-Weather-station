@@ -7,7 +7,7 @@
 const char* WIFI_SSID = "ENTER_SSID";
 const char* WIFI_PASS = "ENTER_PASS";
 
-const char* nodeIP = "ENTER_NODESERVERIP";
+const char* nodeIP = "http://x.x.x.x:3001/sensors";
 
 float temp = 0;
 float humi = 0;

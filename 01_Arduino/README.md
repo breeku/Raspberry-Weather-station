@@ -16,7 +16,7 @@
 
 If the image is unclear, use **Google** to find pinouts. Ex. ESP8266 Deepsleep / ESP8266 with AM2320
 
-Be sure to **replace** the placeholder WIFI and NodeJS server information.
+Be sure to **replace** the placeholder WIFI and NodeJS information.
 
 Note that you need to **unplug** the RST when uploading your code to ESP8266
 
