@@ -1,10 +1,8 @@
-# AM2320_ESP8266_NodeJS_React
+# Raspberry Weather station
+**made with with AM2320, ESP8266, NodeJS and React**
 
 ## How to use
 
-#### **Note that you can go about this multiple ways.**
-
-Now how I would do this is:
 1. **Enable SSH on your Raspberry**
 2. *Find your raspberry's IP (IP scanner, or if you have access to the raspberry's terminal, ifconfig)*
 3. **Install Putty for SSH Access**
@@ -14,9 +12,3 @@ Now how I would do this is:
 For a lack of a demo, here's a picture how the end result should look like.
 
 ![Image](https://i.imgur.com/qP6kC7U.png)
-
-*Todo*
-* [ ] Remove 'Dashboard' and 'Raspberry' from React app since it isn't in this project's scope
-* [ ] Move the instructions to Wiki
-* [ ] Demo
-* [ ] More specific instructions 
