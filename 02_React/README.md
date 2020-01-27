@@ -8,7 +8,7 @@
 
 ## How to use
 
-You will need to **replace** a ip address in /src/components/Sensors.js , line 43. Enter your node server's ip address.
+You will need to replace a ip address in /src/components/Sensors.js , line 43. Enter your node server's ip address.
 
 Then in the root of the folder, do **```npm install```**, then **```npm start```**. That should start the dev build on port 3000.
 
